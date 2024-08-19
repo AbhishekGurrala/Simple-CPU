@@ -1,0 +1,9 @@
+Group 7 - CS22B001_CS22B049
+
+References used for Report - Class Slides,Malvino,AVR instruction set manual.
+
+Percentage Contribution of each team member - almost 50% each.
+
+Roll number of students with whom we have discussed - CS22B031,CS22B087
+
+File name of aux.txt is not saving in my system so I added underscore before it
